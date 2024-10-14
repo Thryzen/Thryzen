@@ -3,9 +3,9 @@ It' s Reason, Nice to Meet You!
 - 🔭 I’m currently working on CS
 - 🌱 I’m currently learning AI
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thryzen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thryzen&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thryzen&count_private=true)
+![Thryzen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thryzen&count_private=true)
 <!--
 **Thryzen/Thryzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
